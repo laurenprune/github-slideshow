@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hand over the chocolates and no one gets hurt.
 Use the left arrow to go back!
